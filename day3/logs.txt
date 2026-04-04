@@ -1,0 +1,8 @@
+Input: weather
+Tool: weather
+Output: Weather is sunny today
+------------------------------
+Input: calculate 3+5
+Tool: calculator
+Output: 8
+------------------------------
